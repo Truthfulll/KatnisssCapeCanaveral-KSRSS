@@ -1,13 +1,12 @@
-# KatnisssCapeCanaveral
+KatnisssCapeCanaveral - KSRSS 
 
-Some people wanted this, so there you go. :D
+Everything here was made by Katniss all I did was edit configs so please check out their other works before downloading. :)
 
-*Turning KSP into Orbiter since 2020*
+After multiple requests to make something like this I have finally done it with Katniss's newest additions.
 
-Requires Kerbal Konstructs for the LC39.
+Requirements:
 
-Not tested with RP-1 (LC39 should allow 99x99x999m, 99999t rockets, and is free to open - balancing it is not on my priprity list, as I don't play RP-1 and don't even know how it's supposed to be balanced)
-
-To download, clone the repo (or download as .zip, doesn't really matter) and copy-paste the gameData directory (or contents, again, doesn't matter)
-
-RSS-TEXTURES should be installed before otherwise it will replace the modified heightmap and result in visual artifacts.
+Kerbal Konstructs 
+KSRSS
+OSSNTR
+Tundra Exploration
