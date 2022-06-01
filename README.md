@@ -6,7 +6,7 @@ After multiple requests to make something like this I have finally done it with 
 
 Requirements:
 
-Kerbal Konstructs 
-KSRSS
-OSSNTR
+Kerbal Konstructs,
+KSRSS,
+OSSNTR,
 Tundra Exploration
