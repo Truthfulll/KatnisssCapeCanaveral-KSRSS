@@ -10,3 +10,4 @@ Kerbal Konstructs,
 KSRSS,
 OSSNTR,
 Tundra Exploration
+RESCALE 2.5x
