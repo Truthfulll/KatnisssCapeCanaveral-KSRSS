@@ -9,5 +9,5 @@ Requirements:
 Kerbal Konstructs,
 KSRSS,
 OSSNTR,
-Tundra Exploration
+Tundra Exploration,
 RESCALE 2.5x
