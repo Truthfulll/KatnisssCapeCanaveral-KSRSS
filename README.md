@@ -9,7 +9,7 @@ Requirements:
 Kerbal Konstructs,
 OSSNTR,
 Tundra SpaceCenter,
-Aurora Space Center
+Aurora Space Center,
 KSRSS Reborn
 
 Incompatibilities:
