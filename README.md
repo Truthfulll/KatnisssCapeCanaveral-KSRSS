@@ -8,7 +8,8 @@ Requirements:
 
 Kerbal Konstructs,
 OSSNTR,
-Tundra Exploration,
+Tundra SpaceCenter,
+Aurora Space Center
 KSRSS Reborn
 
 Incompatibilities:
