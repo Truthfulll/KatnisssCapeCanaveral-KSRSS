@@ -37,5 +37,5 @@ Variants:
 
 Retro: 60s - 90s era of Cape Canaveral
 
-Modern: 2010s - 2020s era of Cape Canaveral
+Modern: Mid-Late 2020s era of Cape Canaveral
 
