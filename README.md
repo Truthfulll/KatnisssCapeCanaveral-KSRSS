@@ -10,6 +10,7 @@ Kerbal Konstructs,
 OSSNTR,
 Tundra SpaceCenter,
 Aurora Space Center,
+SpaceX Kerbalized BocaChica Starbase,
 KSRSS Reborn
 
 Incompatibilities:
