@@ -10,6 +10,7 @@ Kerbal Konstructs,
 OSSNTR,
 Tundra SpaceCenter,
 Aurora Space Center,
+Starbase-parts,
 KSRSS Reborn
 
 Incompatibilities:
