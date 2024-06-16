@@ -8,6 +8,7 @@ Requirements:
 
 Kerbal Konstructs,
 OSSNTR,
+Launch Sites Appended,
 Tundra SpaceCenter,
 Aurora Space Center,
 Starbase-parts,
