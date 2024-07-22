@@ -2,16 +2,22 @@ KatnisssCapeCanaveral - KSRSS
 
 Everything here was made by Katniss all I did was edit configs so please check out their other works before downloading. :)
 
-After multiple requests to make something like this I have finally done it with Katniss's newest additions.
-
 Requirements:
 
 Kerbal Konstructs,
 OSSNTR,
 Tundra SpaceCenter,
 Aurora Space Center,
-Starbase-parts,
-KSRSS Reborn
+KSRSS Reborn 
+SpaceX Landing Pads 
+
+Extra requirements for Starship LC-39A:
+
+filip's Starbase
+Starbase Clutter
+Starbase Parts
+Starship Ground Extensions
+
 
 Incompatibilities:
 
@@ -20,7 +26,7 @@ SigmaDimensions
 Any other KK mod
 
 
-!!!!! Instructions: Place the Retro/Modern folder into KatnisssCapeCanaveral/Instances !!!!!
+!!!!! Instructions: Place either the Retro Modern folder into KatnisssCapeCanaveral/Instances !!!!!
 
 
 
@@ -38,5 +44,7 @@ Variants:
 
 Retro: 60s - 90s era of Cape Canaveral
 
-Modern: Mid-Late 2020s era of Cape Canaveral
+Modern: 2020s era of Cape Canaveral
+
+Starship LC39A (Use with the Modern folder)
 
