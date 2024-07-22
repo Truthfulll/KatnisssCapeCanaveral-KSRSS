@@ -4,18 +4,18 @@ Everything here was made by Katniss all I did was edit configs so please check o
 
 Requirements:
 
-Kerbal Konstructs,
-OSSNTR,
-Tundra SpaceCenter,
-Aurora Space Center,
-KSRSS Reborn,
-SpaceX Landing Pads,
+[Kerbal Konstructs, (RO Version)](https://github.com/KSP-RO/Kerbal-Konstructs)
+[OSSNTR,](https://spacedock.info/mod/2061/Omega's%20Stockalike%20Structures:%20No%20Textures%20Required)
+[Tundra SpaceCenter,](https://spacedock.info/mod/1831/Tundra's%20Space%20Center)
+[Aurora Space Center,](https://spacedock.info/mod/2352/Aurora%20Space%20Center#changelog)
+[KSRSS Reborn (GitLab Version),](https://gitlab.com/ksrss/KSRSS/-/tree/reborn)
+[SpaceX Landing Pads,](https://spacedock.info/mod/2941/SpaceX%20Landing%20Pads)
 
 Extra requirements for Starship LC-39A:
 
-filip's Starbase,
-Starbase Clutter,
-Starbase Parts,
+[filip's Starbase,](https://spacedock.info/mod/2964/filip's%20Starbase%20-%20Boca%20Chica%20launch%20site)
+[Starbase Clutter,](https://spacedock.info/mod/3595/Starbase%20clutter)
+[Starbase Parts,](https://spacedock.info/mod/2942/Starbase%20Parts)
 Starship Ground Extensions,
 
 
