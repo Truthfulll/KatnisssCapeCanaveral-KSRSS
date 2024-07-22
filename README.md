@@ -16,7 +16,7 @@ Extra requirements for Starship LC-39A:
 [filip's Starbase,](https://spacedock.info/mod/2964/filip's%20Starbase%20-%20Boca%20Chica%20launch%20site)
 [Starbase Clutter,](https://spacedock.info/mod/3595/Starbase%20clutter)
 [Starbase Parts,](https://spacedock.info/mod/2942/Starbase%20Parts)
-Starship Ground Extensions,
+[Starship Ground Extensions,](https://github.com/Joepkock02/Starship-Ground-Extensions)
 
 
 Incompatibilities:
