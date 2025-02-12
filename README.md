@@ -8,7 +8,7 @@ Requirements:
 [OSSNTR,](https://spacedock.info/mod/2061/Omega's%20Stockalike%20Structures:%20No%20Textures%20Required)
 [Tundra SpaceCenter,](https://spacedock.info/mod/1831/Tundra's%20Space%20Center)
 [Aurora Space Center,](https://spacedock.info/mod/2352/Aurora%20Space%20Center#changelog)
-[KSRSS Reborn (GitLab Version),](https://gitlab.com/ksrss/KSRSS/-/tree/reborn)
+Sol
 [SpaceX Landing Pads,](https://spacedock.info/mod/2941/SpaceX%20Landing%20Pads)
 
 Extra requirements for Starship LC-39A:
@@ -26,7 +26,7 @@ SigmaDimensions,
 Any other KK mod,
 
 
-!!!!! Instructions: Place either the Retro Modern folder into KatnisssCapeCanaveral/Instances !!!!!
+!!!!! Instructions: Place either the Retro or Modern folder into KatnisssCapeCanaveral/Instances !!!!!
 
 
 
