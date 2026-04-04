@@ -1,4 +1,4 @@
-KatnisssCapeCanaveral - KSRSS 
+KatnisssCapeCanaveral - Sol Quarter Scale
 
 Everything here was made by Katniss all I did was edit configs so please check out their other works before downloading. :)
 
